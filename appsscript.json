@@ -1,0 +1,9 @@
+{
+  "timeZone": "Asia/Hong_Kong",
+  "dependencies": {
+  },
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/documents.currentonly"
+  ],
+  "exceptionLogging": "STACKDRIVER"
+}
